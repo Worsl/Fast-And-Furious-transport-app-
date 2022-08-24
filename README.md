@@ -29,9 +29,9 @@
 
 -The user must be able to change language (usability)
 
--Querying for the results must not take too long
+-Querying for the results must not take longer than 20 seconds
 
--After closing the application, the system functionality must be restored within 5 minutes
+-After closing the application, the system functionality must be restored within 30 seconds
 
 
 # Data dictionary
