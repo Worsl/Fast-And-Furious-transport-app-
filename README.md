@@ -21,6 +21,10 @@
 
 -The user must check if there are available parking locations for a specificed carpark
 
+-The user can use the navigation to navigate to the his specificied location
+
+-The user can get recommendations for the nearest carpark
+
 **Information to be processed**
 
 -The system must display the arrival time in the countdown fomart or 24 hour format.
