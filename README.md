@@ -3,39 +3,46 @@
 # DELIVERABLES
 # Documentation of functional and non-functional requirements
 
-**System Functionality to be performed (basic)**
 
--The user can choose his preference whether if he is a driver or a public transporter commuter
 
--The user can choose to to log in into the application to use more features.
 
-(class: user → inhertiance: registered user)
+## functional requirement
 
--The user must be able to favourite his certain bus routes
+1. The user must select his role
 
--The user must be able to check if there are congestions due to traffic jam or accidents
+	1.1 The user can select to be a driver
+	
+		1.1.1 The user can select the navigation function;
+			1.1.1.1 The user must input a starting location
+ 
+			1.1.1.2 The user must input an ending location
 
--The user must be able to search for specific MRT and LRT arrival timings
+			1.1.1.3 The system must display the shortest possible route to his destination
+			
+		1.1.2. The user can select the find car-park function;
 
--The user must be able to search for specific bus arrival timings
+			1.1.2.1 The user must select a specific carpark
 
--The user must check if there are available parking locations for a specificed carpark
+			1.1.2.2 The system must display the information of the specific carpark;
 
--The user can use the navigation to navigate to the his specificied location
+			1.1.2.3 The user can select the nearest carpack function;
 
--The user can get recommendations for the nearest carpark
+			1.1.2.4 The system must display the information of the nearest car park;
+			
 
-**Information to be processed**
+	1.2 The user can select to be a commuter
+	
+		1.2.1 The user can select the "find-bus-timing" function;
 
--The system must display the arrival time in the countdown fomart or 24 hour format.
+			1.2.1.1 The user must enter his bus-number and bus-stop ;
 
-**Non-functional Requirement**
+			1.2.1.2 The System must display the bus timing;
+		
+		1.2.2 The user can select the "find mrt/lrt" function;
 
--The user must be able to change language (usability)
+			1.2.2.1 The user must select the MRT/LRT line;
 
--Querying for the results must not take longer than 20 seconds
-
--After closing the application, the system functionality must be restored within 30 seconds
+			1.2.2.2 The system must display the mrt/lrt line
 
 
 # Data dictionary
