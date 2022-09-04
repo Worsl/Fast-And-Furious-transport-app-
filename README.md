@@ -47,4 +47,5 @@
 
 # Data dictionary
 # Initial Use Case Model, consisting of Use Case diagram and Use Case descriptions
+![alt text](https://github.com/Worsl/Fast-And-Furious/blob/main/Usecase%20Diagram.JPG)
 # UI Mockups
