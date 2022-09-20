@@ -15,3 +15,6 @@
 
 # Initial Dialog Map
 ![alt text](https://github.com/Worsl/Fast-And-Furious/blob/main/Lab2_Deliverable/Initial%20Dialog%20Map.JPG)
+
+# Sequence Diagrams
+![alt text](https://github.com/Worsl/Fast-And-Furious/blob/f6473da897954875cf7e73df9361e62986ff62ab/Lab2_Deliverable/seq%20diag%20v1.jpg)
