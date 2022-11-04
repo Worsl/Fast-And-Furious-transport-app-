@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747396366972",
+    "project_id": "fastandfurious-363205",
+    "storage_bucket": "fastandfurious-363205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747396366972:android:f8fde8892050416748fff9",
+        "android_client_info": {
+          "package_name": "com.ntuproject.fast_and_furious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747396366972-o9n6d591ka2v3lj189j8lknci7g861fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsg18D_x8k4Jy7JoSyyCHNk9zp2sPse8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747396366972-o9n6d591ka2v3lj189j8lknci7g861fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/HomeTitle"
+        android:layout_width="230dp"
+        android:layout_height="94dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="80dp"
+        android:fontFamily="@font/anton"
+        android:text="Good Morning User"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/CommuterAvatar"
+        app:layout_constraintHorizontal_bias="0.526"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/CommuterAvatar"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="150dp"
+        android:layout_height="142dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="120dp"
+
+        android:adjustViewBounds="true"
+        android:backgroundTint="#FFFFFF"
+        android:contentDescription="@string/app_name"
+
+        android:scaleType="fitCenter"
+        android:soundEffectsEnabled="false"
+        android:src="@drawable/commuter2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/HomeTitle" />
+
+    <ImageButton
+        android:id="@+id/DriverAvatar"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="150dp"
+        android:layout_height="142dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="120dp"
+        android:adjustViewBounds="true"
+
+        android:backgroundTint="#FFFFFF"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitCenter"
+
+        android:src="@drawable/driver"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CommuterAvatar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="160dp"
+        android:text="Commuter"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CommuterAvatar"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="160dp"
+        android:text="Driver"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DriverAvatar"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="107dp"
+        android:layout_height="240dp"
+        android:layout_marginStart="320dp"
+        android:layout_marginBottom="596dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sunny" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

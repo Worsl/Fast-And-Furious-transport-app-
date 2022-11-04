@@ -1,0 +1,33 @@
+{
+  "favourite":
+  [
+    {
+      "buscode": "12201",
+      "name":"Home",
+      "busname":"Logishub @ Clementi",
+      "Latitude":1.32670826856501,
+      "Longitude":103.76399509585458,
+      "Description":"my home",
+      "favourite":"Y"
+    },
+    {
+      "buscode": "13021",
+      "name":"PT Job",
+      "busname":"Aft Min Of Foreign Affairs",
+      "Latitude":1.30633972996805,
+      "Longitude":103.81430670816292,
+      "Description":"part time work place",
+      "favourite":"Y"
+    },
+    {
+      "buscode": "10499",
+      "name":"Dad House",
+      "busname":"KAMPONG BAHRU TER",
+      "Latitude":1.27585400417691,
+      "Longitude":103.83401000002084,
+      "Description":"my dad home",
+      "favourite":"Y"
+    }
+  ]
+
+}
