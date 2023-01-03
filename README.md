@@ -1,20 +1,8 @@
 # Fast-And-Furious
 # Mission: To fallciliate fast and easy transportation  
-# DELIVERABLES
-# Documentation of functional and non-functional requirements
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oJnJoj9dfLs-ID" target="_blank">
+<img src="http://img.youtube.com/vi/oJnJoj9dfLs/0.jpg" alt="IMAGE ALT TEXT HERE" width="520" height="320" border="10" />
+</a>
 
-
-## functional requirement
-
-# Data dictionary
-# Initial Use Case Model, consisting of Use Case diagram and Use Case descriptions
-![alt text](https://github.com/Worsl/Fast-And-Furious/blob/main/Lab1_Deliverables/Usecase_Diagram.JPG)
-# UI Mockups
-
-# Initial Dialog Map
-![alt text](https://github.com/Worsl/Fast-And-Furious/blob/main/Lab2_Deliverable/Initial_Dialog%20Map.JPG)
-
-# Sequence Diagrams
-![alt text](https://github.com/Worsl/Fast-And-Furious/blob/e9f46461346e2e1aaa53bbd3a8a5541126c56357/Lab2_Deliverable/sequence%20diagrams.jpg)
